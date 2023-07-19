@@ -1,6 +1,4 @@
-Hello Everyone! I will be listing the steps to run the entire code
-
-First before running the code packages a virtual environment needs to be created. (Preferably in the root directory itself)
+Before running the code packages a virtual environment needs to be created. (Preferably in the root directory itself)
 
 •For MacOS and Linux: python -m venv venv
 And for Windows: python -m venv venv
